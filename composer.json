@@ -1,5 +1,5 @@
 {
-    "name": "Labaid/web-installer",
+    "name": "labaid/web-installer",
     "description": "Laravel Easy Installation System",
     "require": {
         "php": "^7.3|^8.0"
